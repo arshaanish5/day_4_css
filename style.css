@@ -1,0 +1,61 @@
+
+/*class-- tagname.classname class name may be same for all tagnames*/
+/*h1.a2{
+	color:red;
+}
+/*id-- tagname#idname  id name not be same for any tagname*/
+/*h1#a1{
+	color: blue;
+}
+
+/*universal sector*/
+/**{
+	color: green;
+	text-align: center;
+}*/
+
+.grp1{
+	background-color: yellow;
+	/*fontchage*/
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	/*font size*/
+	font-size: large;
+	/*font type*/
+	font-weight: bolder;
+	/*font style*/
+	font-style: italic;
+}
+a{
+	color: red;
+	text-decoration:none;
+}
+span{
+	background-color: rgb(19, 200, 191);
+}
+/*to give a background image
+*{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQUQ6g6NjGqj3qncgsJGpxzzRrL_qDAc1qQ&s');
+	background-size: cover;
+}*/
+.tab1{
+	border: 5px dotted red
+}
+.tab1 tr td{
+	border: 3px dashed darkblue;
+}
+.tab1 th{
+	border: 3px  dashed green;
+}
+/*margin*/
+.tab1{
+	margin: 5% 50% 5%50%;
+	padding: 5px 5px 5px 5px;
+}
+
+
+
+
+
+/*form designing*/
+
+.
